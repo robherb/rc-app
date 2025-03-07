@@ -1,5 +1,4 @@
-# rc-app
-Recurse Center Application Spring 2 2025
+# Recurse Center Application Spring 2 2025
 
 ## Essay Response to "most fascinating thing learned" Prompt
 The most fascinating thing I've learned recently is how to properly ski. This is a continuing journey that is, to me, physically, socially, and intellectually demanding. Prior to three ski seasons ago ('22/'23), I had not skied more than about a dozen times in my 
